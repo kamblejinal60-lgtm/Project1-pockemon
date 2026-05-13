@@ -15,7 +15,6 @@ body{
   position:relative;
 }
 
-/* LEFT/side/*/
 
 .left{
   width:50%;
@@ -61,7 +60,7 @@ body{
   color:#333;
 }
 
-/* CENTER */
+
 
 .center{
   position:absolute;
@@ -76,7 +75,7 @@ body{
   width:200px;
 }
 
-/* RIGHT SIDE */
+
 
 .right{
   width:50%;
